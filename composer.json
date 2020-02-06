@@ -1,0 +1,15 @@
+{
+    "name": "idealerror/amazon-sponsored-ads",
+    "type": "library",
+    "description": "Simple reporting integration with Amazon Sponsored Ads API",
+    "homepage": https://github.com/idealerror/amazon-sponsored-adsm",
+    "license": "Apache2.0",
+    "authors": [
+        {
+            "name": "Chris Geiger",
+            "email": "hellochrisgeiger@gmail.com",
+            "homepage": "https://github.com/idealerror",
+            "role": "Developer"
+        }
+    ],
+}
